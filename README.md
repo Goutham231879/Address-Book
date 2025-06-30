@@ -18,8 +18,3 @@ This is a Java application that can store and manage contact information such as
 - Follow the instructions to add, view, search, or delete contacts.
 - To exit the application, select option 5.
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## Credits
-This project was created by Kalutu Daniel.
